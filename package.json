@@ -1,0 +1,22 @@
+{
+  "name": "bonkers-monkey",
+  "version": "1.0.0",
+  "description": "Bonkers monkey patch for console log using pino logger",
+  "main": "./dist/index",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pino": "^6.11.2",
+    "pino-pretty": "^4.7.1",
+    "source-map-support": "^0.5.19"
+  },
+  "devDependencies": {
+    "@types/pino": "^6.3.7",
+    "typescript": "^4.2.4"
+  }
+}
