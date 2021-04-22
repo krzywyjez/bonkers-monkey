@@ -9,6 +9,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krzywyjez/bonkers-monkey.git"
+  },
   "license": "ISC",
   "dependencies": {
     "pino": "^6.11.2",
