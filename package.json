@@ -1,14 +1,13 @@
 {
   "name": "bonkers-monkey",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Bonkers monkey patch for console log using pino logger",
   "main": "./dist/index",
   "types": "./dist/index.d.ts",
   "scripts": {
-    "build": "tsc",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
-  "author": "",
+  "author": "krzywyjez",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/krzywyjez/bonkers-monkey.git"

@@ -21,7 +21,7 @@ import { patchConsole } from 'bonkers-monkey';
 patchConsole();
 ```
 
-![bonkers-log](./img/bonkers-log.png)
+![bonkers-log](https://github.com//krzywyjez/bonkers-monkey/raw/main/img/bonkers-log.png)
 
 ### Typescript
 
