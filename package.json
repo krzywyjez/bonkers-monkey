@@ -1,10 +1,15 @@
 {
   "name": "bonkers-monkey",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "Bonkers monkey patch for console log using pino logger",
-  "main": "./dist/index",
+  "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
+  "files" : [
+    "index.ts",
+    "dist"
+  ],
   "scripts": {
+    "prepare": "npm run build",
     "build": "tsc"
   },
   "author": "krzywyjez",
